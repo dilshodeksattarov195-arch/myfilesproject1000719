@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensender",
+        "uuid": 1499834,
+        "checksum": "q3ifxj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
